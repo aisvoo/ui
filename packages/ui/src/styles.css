@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	:root {		
+		--ai-primary-value: 0 0% 09%;
+		--ai-primary-foreground-value: 0 0% 95%;
+	}
+}
